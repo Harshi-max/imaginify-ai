@@ -195,7 +195,7 @@ const MediaUploader = ({
                 className="media-uploader_cldImage"
                 crop="pad"
                 gravity="auto"
-                effect="gen_fill"
+                effects={["gen_fill"]}
               />
             </div>
           ) : (
