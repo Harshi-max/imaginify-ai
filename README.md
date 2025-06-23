@@ -90,7 +90,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Harshi-max/imaginify-ai.git
-cd imaginify
+cd imaginify-ai
 ```
 
 **Installation**
